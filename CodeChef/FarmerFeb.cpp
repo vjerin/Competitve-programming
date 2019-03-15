@@ -1,4 +1,8 @@
-//  https://www.codechef.com/submit/POTATOES
+/*
+ *Author: Ankit Vashisht
+ *Problem : https://www.codechef.com/problems/POTATOES
+ *Solution : https://www.codechef.com/submit/POTATOES
+ */
 
 #include <bits/stdc++.h>
 using namespace std;
