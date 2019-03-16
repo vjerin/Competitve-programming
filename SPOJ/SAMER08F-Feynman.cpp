@@ -7,7 +7,7 @@
 using namespace std;
 
 int main(int argc, char const *argv[])
-{   
+{       
     int n;
     while(true){
         cin>>n;
