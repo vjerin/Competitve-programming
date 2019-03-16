@@ -1,6 +1,6 @@
 /*
  * Author : Ankit Vashisht
- * Problem :https://www.spoj.com/problems/FCTRL/
+ * Problem :https://www.spoj.com/problems/FCTRL2/
  */
 // Not Working above n>25 ! :(
 
