@@ -1,6 +1,6 @@
 /*
  * Author : Ankit Vashisht
- * Problem :
+ * Problem : https://codeforces.com/problemset/problem/959/A
  */
 
 #include <bits/stdc++.h>
@@ -12,6 +12,10 @@ const int N=1e5+5;
 
 int32_t main(){
     IOS;
-
+    int n; 
+    cin>>n;
+    if(n & 1) cout<<"Ehab"<<endl;
+    else cout<<"Mahmoud"<<endl;    
     return 0;
+
 }
