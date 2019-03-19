@@ -1,6 +1,7 @@
 /*
  * Author : Ankit Vashisht
  * Problem : https://www.codechef.com/problems/CSUB
+ * Note : TLE with this approach :(
  */
 
 #include <bits/stdc++.h>
