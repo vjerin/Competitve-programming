@@ -1,6 +1,6 @@
 /*
  * Author : Ankit Vashisht
- * Problem :
+ * Problem : https://www.codechef.com/problems/MUFFINS3
  */
 
 #include <bits/stdc++.h>
